@@ -31,7 +31,7 @@ public class SortInAscendingOrder {
 		public static void main(String args[])
 		{
 			String[]arr = {"This", "is", "a", "easiest", "example"};
-			int n = arr.length();
+			int n = arr.length;
 			
 			sort(arr,n);
 			
